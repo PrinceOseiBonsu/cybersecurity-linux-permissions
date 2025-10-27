@@ -23,7 +23,7 @@ This project demonstrates how to check, understand, and modify file permissions 
 
 ## 📄 Report
 You can read the full report here:  
-[📘 File permissions in Linux (PDF)](./File%20permissions%20in%20Linux.pdf)
+[📘 File permissions in Linux (PDF)](https://github.com/PrinceOseiBonsu/cybersecurity-linux-permissions/blob/main/File%20permissions%20in%20Linux.pdf)
 
 ## 🧑‍💻 Author
 **Prince Osei Bonsu**  
